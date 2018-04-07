@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GmailLoginSample</string>
+    <string name="login_with_gmail">login with gmail</string>
+    <string name="logout_from_gmail">logout from gmail</string>
+</resources>
